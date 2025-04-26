@@ -18,7 +18,6 @@ A simple calculator web app built with **HTML**, **CSS**, and **JavaScript**. Th
 
 ## 📸 Screenshot
 
-![Calculator App Screenshot](./image/calc.JPG)
 <img src="./image/calc.JPG" alt="Calculator App Screenshot" width="400"/>
 
 ---
